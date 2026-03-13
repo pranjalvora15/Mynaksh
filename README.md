@@ -21,6 +21,7 @@ A React Native chat interface built as a machine coding assignment. Features swi
 ```bash
 # 1. Clone the repo and install dependencies
 git clone <repo-url>
+// git clone git@github.com:pranjalvora15/Mynaksh.git
 cd mynaksh
 npm install
 
